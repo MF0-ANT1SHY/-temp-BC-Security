@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/public/syang75/BC-Security/UnifiedEnv/rl.py", line 264, in <module>
+    train_instance.start_training()
+  File "/public/syang75/BC-Security/UnifiedEnv/rl.py", line 201, in start_training
+    results.append(env.reward_fraction)
+  File "/public/syang75/BC-Security/UnifiedEnv/unifiedenv.py", line 1041, in reward_fraction
+    return self._attacker_gain / (self._attacker_gain + self._honest_gain)
+ZeroDivisionError: float division by zero
+
+ERROR conda.cli.main_run:execute(125): `conda run python /public/syang75/BC-Security/UnifiedEnv/rl.py` failed. (See above for error)

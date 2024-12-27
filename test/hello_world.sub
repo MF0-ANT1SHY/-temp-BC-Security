@@ -1,0 +1,9 @@
+universe = vanilla
+executable = /home/grads/syang75/miniconda3/bin/conda
+arguments = run -n BCsec python /public/syang75/BC-Security/hello_world.py
+
+output = hello_world.out
+error = hello_world.err
+log = hello_world.log
+
+queue 1 

@@ -1,0 +1,167 @@
+2024-12-24 22:33:46,822 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:33:46,823 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:34:13,597 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:34:13,598 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:35:16,744 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:35:16,745 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:35:43,969 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:35:43,970 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:36:20,015 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:36:20,016 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:37:32,492 - simulate - INFO - Starting simulation for 100000 steps
+2024-12-24 22:37:32,492 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:39:34,408 - simulate - INFO - Starting simulation for 100000 steps
+2024-12-24 22:39:34,409 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:40:15,213 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:40:15,213 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:40:28,773 - simulate - INFO - Simulation complete for 1000 steps
+2024-12-24 22:40:28,774 - simulate - INFO - Alpha: 0.10, Relative Error: 77.68%
+2024-12-24 22:40:28,775 - simulate - INFO - Alpha: 0.15, Relative Error: 74.96%
+2024-12-24 22:40:28,776 - simulate - INFO - Alpha: 0.20, Relative Error: 35.71%
+2024-12-24 22:40:28,776 - simulate - INFO - Alpha: 0.25, Relative Error: 65.83%
+2024-12-24 22:40:28,777 - simulate - INFO - Alpha: 0.30, Relative Error: 66.48%
+2024-12-24 22:40:28,778 - simulate - INFO - Alpha: 0.35, Relative Error: 74.88%
+2024-12-24 22:40:28,778 - simulate - INFO - Alpha: 0.40, Relative Error: 67.70%
+2024-12-24 22:40:28,779 - simulate - INFO - Alpha: 0.45, Relative Error: 64.77%
+2024-12-24 22:40:28,780 - simulate - INFO - Alpha: 0.50, Relative Error: 56.20%
+2024-12-24 22:40:28,780 - simulate - INFO - Error metrics: {0.1: 77.68, 0.15000000000000002: 74.96, 0.20000000000000004: 35.71, 0.25000000000000006: 65.83, 0.30000000000000004: 66.48, 0.3500000000000001: 74.88, 0.40000000000000013: 67.7, 0.45000000000000007: 64.77, 0.5000000000000001: 56.2}
+2024-12-24 22:41:57,949 - simulate - INFO - Starting simulation for 1000 steps
+2024-12-24 22:41:57,950 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:42:34,612 - simulate - INFO - Starting simulation for 100000 steps
+2024-12-24 22:42:34,613 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:42:54,069 - simulate - INFO - Starting simulation for 100000 steps
+2024-12-24 22:42:54,073 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:43:13,822 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-24 22:43:13,833 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:43:31,620 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-24 22:43:31,621 - simulate - INFO - Alpha: 0.10, Relative Error: 76.54%
+2024-12-24 22:43:31,622 - simulate - INFO - Alpha: 0.15, Relative Error: 71.77%
+2024-12-24 22:43:31,623 - simulate - INFO - Alpha: 0.20, Relative Error: 68.35%
+2024-12-24 22:43:31,624 - simulate - INFO - Alpha: 0.25, Relative Error: 67.35%
+2024-12-24 22:43:31,624 - simulate - INFO - Alpha: 0.30, Relative Error: 60.83%
+2024-12-24 22:43:31,625 - simulate - INFO - Alpha: 0.35, Relative Error: 63.25%
+2024-12-24 22:43:31,626 - simulate - INFO - Alpha: 0.40, Relative Error: 60.15%
+2024-12-24 22:43:31,630 - simulate - INFO - Alpha: 0.45, Relative Error: 60.92%
+2024-12-24 22:43:31,632 - simulate - INFO - Alpha: 0.50, Relative Error: 60.00%
+2024-12-24 22:43:31,632 - simulate - INFO - Error metrics: {0.1: 76.54, 0.15000000000000002: 71.77, 0.20000000000000004: 68.35, 0.25000000000000006: 67.35, 0.30000000000000004: 60.83, 0.3500000000000001: 63.25, 0.40000000000000013: 60.15, 0.45000000000000007: 60.92, 0.5000000000000001: 60.0}
+2024-12-24 22:44:34,180 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-24 22:44:34,181 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:45:48,467 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-24 22:45:48,469 - simulate - INFO - Alpha: 0.10, Relative Error: 0.70%
+2024-12-24 22:45:48,470 - simulate - INFO - Alpha: 0.15, Relative Error: 4.07%
+2024-12-24 22:45:48,470 - simulate - INFO - Alpha: 0.20, Relative Error: 1.70%
+2024-12-24 22:45:48,471 - simulate - INFO - Alpha: 0.25, Relative Error: 0.76%
+2024-12-24 22:45:48,472 - simulate - INFO - Alpha: 0.30, Relative Error: 1.27%
+2024-12-24 22:45:48,472 - simulate - INFO - Alpha: 0.35, Relative Error: 1.14%
+2024-12-24 22:45:48,473 - simulate - INFO - Alpha: 0.40, Relative Error: 0.53%
+2024-12-24 22:45:48,474 - simulate - INFO - Alpha: 0.45, Relative Error: 0.13%
+2024-12-24 22:45:48,474 - simulate - INFO - Alpha: 0.50, Relative Error: 1.92%
+2024-12-24 22:45:48,475 - simulate - INFO - Error metrics: {0.1: 0.7, 0.15000000000000002: 4.07, 0.20000000000000004: 1.7, 0.25000000000000006: 0.76, 0.30000000000000004: 1.27, 0.3500000000000001: 1.14, 0.40000000000000013: 0.53, 0.45000000000000007: 0.13, 0.5000000000000001: 1.92}
+2024-12-24 22:54:26,655 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-24 22:54:26,676 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:55:44,452 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-24 22:55:44,454 - simulate - INFO - Alpha: 0.10, Relative Error: 4.70%
+2024-12-24 22:55:44,454 - simulate - INFO - Alpha: 0.15, Relative Error: 1.53%
+2024-12-24 22:55:44,455 - simulate - INFO - Alpha: 0.20, Relative Error: 4.10%
+2024-12-24 22:55:44,456 - simulate - INFO - Alpha: 0.25, Relative Error: 1.16%
+2024-12-24 22:55:44,456 - simulate - INFO - Alpha: 0.30, Relative Error: 0.33%
+2024-12-24 22:55:44,457 - simulate - INFO - Alpha: 0.35, Relative Error: 0.49%
+2024-12-24 22:55:44,458 - simulate - INFO - Alpha: 0.40, Relative Error: 1.58%
+2024-12-24 22:55:44,458 - simulate - INFO - Alpha: 0.45, Relative Error: 1.22%
+2024-12-24 22:55:44,459 - simulate - INFO - Alpha: 0.50, Relative Error: 0.12%
+2024-12-24 22:55:44,459 - simulate - INFO - Error metrics: {0.1: 4.7, 0.15000000000000002: 1.53, 0.20000000000000004: 4.1, 0.25000000000000006: 1.16, 0.30000000000000004: 0.33, 0.3500000000000001: 0.49, 0.40000000000000013: 1.58, 0.45000000000000007: 1.22, 0.5000000000000001: 0.12}
+2024-12-24 22:56:52,151 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-24 22:56:52,152 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-24 22:58:05,652 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-24 22:58:05,654 - simulate - INFO - Alpha: 0.10, Relative Error: 0.10%
+2024-12-24 22:58:05,655 - simulate - INFO - Alpha: 0.15, Relative Error: 0.60%
+2024-12-24 22:58:05,656 - simulate - INFO - Alpha: 0.20, Relative Error: 0.95%
+2024-12-24 22:58:05,656 - simulate - INFO - Alpha: 0.25, Relative Error: 1.68%
+2024-12-24 22:58:05,657 - simulate - INFO - Alpha: 0.30, Relative Error: 1.77%
+2024-12-24 22:58:05,658 - simulate - INFO - Alpha: 0.35, Relative Error: 0.77%
+2024-12-24 22:58:05,659 - simulate - INFO - Alpha: 0.40, Relative Error: 1.13%
+2024-12-24 22:58:05,659 - simulate - INFO - Alpha: 0.45, Relative Error: 0.84%
+2024-12-24 22:58:05,660 - simulate - INFO - Alpha: 0.50, Relative Error: 0.28%
+2024-12-24 22:58:05,661 - simulate - INFO - Error metrics: {0.1: 0.1, 0.15000000000000002: 0.6, 0.20000000000000004: 0.95, 0.25000000000000006: 1.68, 0.30000000000000004: 1.77, 0.3500000000000001: 0.77, 0.40000000000000013: 1.13, 0.45000000000000007: 0.84, 0.5000000000000001: 0.28}
+2024-12-25 16:17:36,139 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:17:36,140 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:17:53,448 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:17:53,450 - simulate - INFO - Alpha: 0.10, Relative Error: 68.95%
+2024-12-25 16:17:53,451 - simulate - INFO - Alpha: 0.15, Relative Error: 74.16%
+2024-12-25 16:17:53,451 - simulate - INFO - Alpha: 0.20, Relative Error: 72.29%
+2024-12-25 16:17:53,452 - simulate - INFO - Alpha: 0.25, Relative Error: 72.95%
+2024-12-25 16:17:53,453 - simulate - INFO - Alpha: 0.30, Relative Error: 67.20%
+2024-12-25 16:17:53,454 - simulate - INFO - Alpha: 0.35, Relative Error: 61.14%
+2024-12-25 16:17:53,454 - simulate - INFO - Alpha: 0.40, Relative Error: 59.16%
+2024-12-25 16:17:53,455 - simulate - INFO - Alpha: 0.45, Relative Error: 56.77%
+2024-12-25 16:17:53,456 - simulate - INFO - Alpha: 0.50, Relative Error: 57.67%
+2024-12-25 16:17:53,457 - simulate - INFO - Error metrics: {0.1: 68.95, 0.15000000000000002: 74.16, 0.20000000000000004: 72.29, 0.25000000000000006: 72.95, 0.30000000000000004: 67.2, 0.3500000000000001: 61.14, 0.40000000000000013: 59.16, 0.45000000000000007: 56.77, 0.5000000000000001: 57.67}
+2024-12-25 16:37:25,542 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:37:25,544 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:37:43,020 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:37:43,022 - simulate - INFO - Alpha: 0.10, Relative Error: 74.59%
+2024-12-25 16:37:43,023 - simulate - INFO - Alpha: 0.15, Relative Error: 68.18%
+2024-12-25 16:37:43,023 - simulate - INFO - Alpha: 0.20, Relative Error: 68.96%
+2024-12-25 16:37:43,024 - simulate - INFO - Alpha: 0.25, Relative Error: 71.47%
+2024-12-25 16:37:43,025 - simulate - INFO - Alpha: 0.30, Relative Error: 67.22%
+2024-12-25 16:37:43,025 - simulate - INFO - Alpha: 0.35, Relative Error: 64.12%
+2024-12-25 16:37:43,026 - simulate - INFO - Alpha: 0.40, Relative Error: 62.48%
+2024-12-25 16:37:43,027 - simulate - INFO - Alpha: 0.45, Relative Error: 58.02%
+2024-12-25 16:37:43,027 - simulate - INFO - Alpha: 0.50, Relative Error: 57.52%
+2024-12-25 16:37:43,028 - simulate - INFO - Error metrics: {0.1: 74.59, 0.15000000000000002: 68.18, 0.20000000000000004: 68.96, 0.25000000000000006: 71.47, 0.30000000000000004: 67.22, 0.3500000000000001: 64.12, 0.40000000000000013: 62.48, 0.45000000000000007: 58.02, 0.5000000000000001: 57.52}
+2024-12-25 16:37:53,858 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:37:53,860 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:38:11,902 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:38:11,904 - simulate - INFO - Alpha: 0.10, Relative Error: 71.56%
+2024-12-25 16:38:11,905 - simulate - INFO - Alpha: 0.15, Relative Error: 74.53%
+2024-12-25 16:38:11,905 - simulate - INFO - Alpha: 0.20, Relative Error: 70.68%
+2024-12-25 16:38:11,906 - simulate - INFO - Alpha: 0.25, Relative Error: 69.17%
+2024-12-25 16:38:11,907 - simulate - INFO - Alpha: 0.30, Relative Error: 67.75%
+2024-12-25 16:38:11,907 - simulate - INFO - Alpha: 0.35, Relative Error: 62.82%
+2024-12-25 16:38:11,908 - simulate - INFO - Alpha: 0.40, Relative Error: 64.80%
+2024-12-25 16:38:11,909 - simulate - INFO - Alpha: 0.45, Relative Error: 58.04%
+2024-12-25 16:38:11,909 - simulate - INFO - Alpha: 0.50, Relative Error: 63.24%
+2024-12-25 16:38:11,910 - simulate - INFO - Error metrics: {0.1: 71.56, 0.15000000000000002: 74.53, 0.20000000000000004: 70.68, 0.25000000000000006: 69.17, 0.30000000000000004: 67.75, 0.3500000000000001: 62.82, 0.40000000000000013: 64.8, 0.45000000000000007: 58.04, 0.5000000000000001: 63.24}
+2024-12-25 16:47:41,215 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:47:41,217 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:48:08,016 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:48:08,017 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:48:27,599 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:48:27,600 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:48:44,064 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:48:44,066 - simulate - INFO - Alpha: 0.10, Relative Error: 33.49%
+2024-12-25 16:48:44,067 - simulate - INFO - Alpha: 0.15, Relative Error: 30.77%
+2024-12-25 16:48:44,067 - simulate - INFO - Alpha: 0.20, Relative Error: 19.53%
+2024-12-25 16:48:44,068 - simulate - INFO - Alpha: 0.25, Relative Error: 15.21%
+2024-12-25 16:48:44,069 - simulate - INFO - Alpha: 0.30, Relative Error: 8.88%
+2024-12-25 16:48:44,069 - simulate - INFO - Alpha: 0.35, Relative Error: 2.32%
+2024-12-25 16:48:44,070 - simulate - INFO - Alpha: 0.40, Relative Error: 0.96%
+2024-12-25 16:48:44,071 - simulate - INFO - Alpha: 0.45, Relative Error: 5.33%
+2024-12-25 16:48:44,072 - simulate - INFO - Alpha: 0.50, Relative Error: 8.43%
+2024-12-25 16:48:44,073 - simulate - INFO - Error metrics: {0.1: 33.49, 0.15000000000000002: 30.77, 0.20000000000000004: 19.53, 0.25000000000000006: 15.21, 0.30000000000000004: 8.88, 0.3500000000000001: 2.32, 0.40000000000000013: 0.96, 0.45000000000000007: 5.33, 0.5000000000000001: 8.43}
+2024-12-25 16:49:29,232 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:49:29,233 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:49:44,652 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:49:44,654 - simulate - INFO - Alpha: 0.10, Relative Error: 32.74%
+2024-12-25 16:49:44,655 - simulate - INFO - Alpha: 0.15, Relative Error: 28.19%
+2024-12-25 16:49:44,655 - simulate - INFO - Alpha: 0.20, Relative Error: 19.82%
+2024-12-25 16:49:44,656 - simulate - INFO - Alpha: 0.25, Relative Error: 16.68%
+2024-12-25 16:49:44,657 - simulate - INFO - Alpha: 0.30, Relative Error: 7.02%
+2024-12-25 16:49:44,658 - simulate - INFO - Alpha: 0.35, Relative Error: 4.50%
+2024-12-25 16:49:44,658 - simulate - INFO - Alpha: 0.40, Relative Error: 0.55%
+2024-12-25 16:49:44,659 - simulate - INFO - Alpha: 0.45, Relative Error: 4.55%
+2024-12-25 16:49:44,660 - simulate - INFO - Alpha: 0.50, Relative Error: 7.00%
+2024-12-25 16:49:44,661 - simulate - INFO - Error metrics: {0.1: 32.74, 0.15000000000000002: 28.19, 0.20000000000000004: 19.82, 0.25000000000000006: 16.68, 0.30000000000000004: 7.02, 0.3500000000000001: 4.5, 0.40000000000000013: 0.55, 0.45000000000000007: 4.55, 0.5000000000000001: 7.0}
+2024-12-25 16:58:47,949 - simulate - INFO - Starting simulation for 10000 steps
+2024-12-25 16:58:47,959 - simulate - INFO - Starting parallel simulation with 5 processes
+2024-12-25 16:59:05,271 - simulate - INFO - Simulation complete for 10000 steps
+2024-12-25 16:59:05,273 - simulate - INFO - Alpha: 0.10, Relative Error: 68.74%
+2024-12-25 16:59:05,273 - simulate - INFO - Alpha: 0.15, Relative Error: 68.43%
+2024-12-25 16:59:05,274 - simulate - INFO - Alpha: 0.20, Relative Error: 65.44%
+2024-12-25 16:59:05,275 - simulate - INFO - Alpha: 0.25, Relative Error: 68.09%
+2024-12-25 16:59:05,275 - simulate - INFO - Alpha: 0.30, Relative Error: 66.54%
+2024-12-25 16:59:05,276 - simulate - INFO - Alpha: 0.35, Relative Error: 63.71%
+2024-12-25 16:59:05,277 - simulate - INFO - Alpha: 0.40, Relative Error: 60.68%
+2024-12-25 16:59:05,278 - simulate - INFO - Alpha: 0.45, Relative Error: 55.13%
+2024-12-25 16:59:05,278 - simulate - INFO - Alpha: 0.50, Relative Error: 55.45%
+2024-12-25 16:59:05,279 - simulate - INFO - Error metrics: {0.1: 68.74, 0.15000000000000002: 68.43, 0.20000000000000004: 65.44, 0.25000000000000006: 68.09, 0.30000000000000004: 66.54, 0.3500000000000001: 63.71, 0.40000000000000013: 60.68, 0.45000000000000007: 55.13, 0.5000000000000001: 55.45}
